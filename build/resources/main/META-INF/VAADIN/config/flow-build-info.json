@@ -1,0 +1,18 @@
+{
+  "productionMode" : false,
+  "eagerServerLoad" : false,
+  "npmFolder" : "C:\\Users\\Nikita\\IdeaProjects\\vistula-java-crud",
+  "node.version" : "v24.13.1",
+  "node.download.root" : "https://nodejs.org/dist/",
+  "frontendFolder" : "C:\\Users\\Nikita\\IdeaProjects\\vistula-java-crud\\.\\src\\main\\frontend",
+  "connect.javaSourceFolder" : "C:\\Users\\Nikita\\IdeaProjects\\vistula-java-crud\\src\\main\\java",
+  "javaResourceFolder" : "C:\\Users\\Nikita\\IdeaProjects\\vistula-java-crud\\src\\main\\resources",
+  "connect.applicationProperties" : "C:\\Users\\Nikita\\IdeaProjects\\vistula-java-crud\\src\\main\\resources\\application.properties",
+  "connect.openApiFile" : "C:\\Users\\Nikita\\IdeaProjects\\vistula-java-crud\\build\\generated-resources\\openapi.json",
+  "project.frontend.generated" : "C:\\Users\\Nikita\\IdeaProjects\\vistula-java-crud\\.\\src\\main\\frontend\\generated",
+  "pnpm.enable" : false,
+  "bun.enable" : false,
+  "require.home.node" : false,
+  "build.folder" : "build",
+  "react.enable" : true
+}
